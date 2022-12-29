@@ -1,0 +1,13 @@
+{
+  "name": "@syslogine/sys_custom",
+  "version": "0.0.1",
+  "description": "Custom files for syslogine cloud",
+  "license": "MIT",
+  "repository": "syslogine/sys_custom",
+  "keywords": [
+    "sys_custom",
+    "npm",
+    "package",
+    "syslogine"
+  ]
+}
